@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="./src/css/reset.css">
+    <link rel="stylesheet" href="./src/css/variables.css">
+    <link rel="stylesheet" href="./src/css/style.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+        integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <title>Sistemas de RPG</title>
+</head>
+
+<body>
+
+    <header class="header">
+        <div class="logo">
+            <a href="#">
+                <img src="./src/images/logo/d4.png" alt="logo d4">
+            </a>
+        </div>
+
+        <h1>Sistemas de RPG</h1>
+        <p></p>
+        <div class="search">
+            <input type="text" placeholder="Buscar sistemas de RPG...">
+            <button type="submit" onclick="buscarSistema">
+                <img src="./src/images/logo/d4.png" alt="logo d4">
+            </button>
+        </div>
+    </header>
+
+
+    <main>
+        <section class="response-container">
+
+        </section>
+    </main>
+
+    <footer class="footer">
+
+        <nav class="social-midia">
+            <ul>
+                <li>
+                    <a href="https://github.com/cezarviana">
+                        <i class="fab fa-github"></i>
+                        <p>Meu GitHub</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/cezarviana/sistemas-rpg">
+                        <i class="fab fa-github"></i>
+                        <p>GitHub Repositório</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/cezarviana-dev/">
+                        <i class="fab fa-linkedin"></i>
+                        <p>LinkedIn</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="" onclick="sendEmailToCezarViana()">
+                        <i class="fas fa-envelope"></i>
+                        <p>cezar.viana@gmail.com</p>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <div class="logo">
+            <a href="#">
+                <img src="./src/images/logo/d4.png" alt="logo d4">
+            </a>
+        </div>
+
+    </footer>
+
+    <script src="./src/js/email.js"></script>
+
+</body>
+
+</html>
