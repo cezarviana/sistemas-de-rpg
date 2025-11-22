@@ -12,7 +12,7 @@ body {
     align-items: center;
     gap: 20px;
     padding: 40px;
-    margin: 1.625rem;
+    margin-bottom: 1.625rem;
     border-bottom: 2px solid var(--color-secondary);
 }
 
@@ -46,7 +46,7 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    width: 1000px;
+    width: 100%;
     gap: 10px;
 }
 
@@ -99,17 +99,22 @@ button:hover img {
 main {
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     width: 100%;
 }
 
 .o-que-e-rpg {
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
     width: 80vw;
-    margin-left: 20px;
-    padding: 20px;
     border-radius: 20px;
+    padding: 20px;
+    gap: 40px;
+    text-align: justify;
     background-color: var(--color-tertiary);
 }
 
@@ -119,7 +124,6 @@ main {
 
 .o-que-e-rpg p {
     text-indent: 20px;
-    margin: 20px;
 }
 
 .response-container {
@@ -137,7 +141,6 @@ main {
     flex-direction: column;
     gap: 0.5rem;
     width: 80vw;
-    margin-left: 20px;
     padding: 20px;
     border-radius: 20px;
     background-color: var(--color-tertiary);
@@ -160,11 +163,10 @@ main {
     background-color: var(--color-secondary);
     color: var(--color-text-primary);
     position: static;
-    /* position: fixed; */
+    position: fixed;
     bottom: 0;
     height: 20vh;
     width: 100%;
-    margin-top: 40px;
     flex-grow: 1;
 }
 
@@ -186,6 +188,7 @@ main {
     display: flex;
     flex-direction: row;
     align-items: center;
+    /* width: 80px; */
     gap: 10px;
     color: var(--color-text-secondary);
 }
@@ -193,4 +196,17 @@ main {
 .social-midia ul li a:hover {
     opacity: 0.7;
     transition: 0.3s ease;
+}
+
+.social-midia ul li a p:hover {
+    text-decoration: underline;
+}
+
+.footer .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: auto;
 }

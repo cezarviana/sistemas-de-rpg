@@ -2,22 +2,34 @@
     .header {
         flex-direction: column;
         gap: 0px;
-        margin: 0.625rem;
+        margin-bottom: 0.625rem;
+        width: 100vw;
     }
-
-    .search button {
-        width: 10%;
+        
+    .footer {
+        width: 100vw;
     }
 
 }
 
 @media screen and (max-width: 500px) {
+    
+    .header {
+        width: 100vw;
+        padding: 20px;
+    }
+    
+    main {
+        width: 100vw;
+    }
+
     .response-container {
         text-align: left;
     }
     
     .footer {
         justify-content: flex-start;
+        width: 100vw;
     }
 
     .social-midia ul {
