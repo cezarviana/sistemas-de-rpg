@@ -59,6 +59,12 @@ function renderSystems(systemToRender) { // Define a função que cria e exibe o
     });
 }
 
-// Chama a função 'iniciarPesquisa' quando o script é carregado.
-// Como o campo de busca estará vazio, isso fará com que todos os dados sejam carregados e exibidos inicialmente.
-searchSystem(); 
+async function loadInitialData() {
+    if (rpgSystems.length === 0) {
+        let response = await fetch('src/js/data.json');
+        rpgSystems = await response.json();
+    }
+}
+
+searchField.addEventListener('input', searchSystem);
+loadInitialData();
