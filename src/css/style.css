@@ -67,7 +67,7 @@ body {
     margin-left: 10px;
     border: 1px solid var(--color-secondary);
     border-radius: 15px;
-    background-color: var(--color-tertiary);
+    background-color: var(--color-quaternary);
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7);;
     cursor: pointer;
 }
@@ -98,6 +98,8 @@ button:hover img {
 
 main {
     display: flex;
+    justify-content: center;
+    width: 100%;
 }
 
 .o-que-e-rpg {
@@ -114,6 +116,39 @@ main {
     margin: 20px;
 }
 
+.response-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin: 20px;
+    text-align: justify;
+}
+
+.response-container article {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    width: 80vw;
+    margin-left: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: var(--color-tertiary);
+}
+
+.response-container article a {
+    color: var(--color-text-primary);
+    text-decoration: underline;
+}
+
+.response-container article a:hover {
+    opacity: 0.7;
+    transition: 0.3s ease;
+}
+
+
+
 .footer {
     display: flex;
     justify-content: space-around;
@@ -121,7 +156,7 @@ main {
     background-color: var(--color-secondary);
     color: var(--color-text-primary);
     position: static;
-    position: fixed;
+    /* position: fixed; */
     bottom: 0;
     height: 20vh;
     width: 100%;
