@@ -6,6 +6,7 @@
 O projeto foi desenvolvido para praticar a manipulação do DOM com JavaScript, o consumo de dados de um arquivo JSON local e a criação de uma interface responsiva e funcional.
 
 Repositório do projeto: [Sistemas de RPG Repositório](https://github.com/cezarviana/sistemas-de-rpg)
+
 Acesse o site aqui: [Sistemas de RPG](https://cezarviana.github.io/sistemas-de-rpg/)
 
 ## 🔎 Funcionalidades
@@ -25,17 +26,10 @@ Acesse o site aqui: [Sistemas de RPG](https://cezarviana.github.io/sistemas-de-r
 
 ## 🎨 Imagens do projeto
 <div align="center">
-
-**Visualização em Desktop**
-
-
-
-<br>
-
-**Visualização em Dispositivo Móvel**
-
-
-
+<img src="./src/images/gifs/sistema-de-rpg.gif"  style="height: 300px; text-align: center;"> 
+<br><br>
+<img src="./src/images/gifs/sistema-de-rpg-mobile.gif"  style="height: 300px; text-align: center;"> <br>
+</div>
 </div>
 
 ## 💡 Decisões do projeto

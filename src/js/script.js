@@ -1,6 +1,7 @@
 const sectionOQueERpg = document.querySelector('.o-que-e-rpg'); // Seleciona a seção "O que é RPG?" do HTML.
 let responseContainer = document.querySelector('.response-container'); // Seleciona o elemento HTML onde os cards serão exibidos.
 let searchField = document.querySelector('.search input'); // Seleciona o campo de input da busca.
+const searchButton = document.querySelector('.search button'); // Seleciona o botão de busca.
 let rpgSystems = []; // Inicializa um array vazio para armazenar os dados carregados do JSON.
 
 async function searchSystem() { // Define uma função assíncrona para buscar e filtrar os dados.
@@ -69,5 +70,5 @@ async function loadInitialData() {
     }
 }
 
-searchField.addEventListener('input', searchSystem);
+searchField.addEventListener('onclick', searchButton.onclick = searchSystem); // Adiciona um listener ao botão de busca para chamar a função searchSystem quando clicado.
 loadInitialData();
