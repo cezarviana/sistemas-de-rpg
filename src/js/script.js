@@ -1,3 +1,4 @@
+const sectionOQueERpg = document.querySelector('.o-que-e-rpg'); // Seleciona a seção "O que é RPG?" do HTML.
 let responseContainer = document.querySelector('.response-container'); // Seleciona o elemento HTML onde os cards serão exibidos.
 let searchField = document.querySelector('.search input'); // Seleciona o campo de input da busca.
 let rpgSystems = []; // Inicializa um array vazio para armazenar os dados carregados do JSON.
@@ -28,6 +29,8 @@ async function searchSystem() { // Define uma função assíncrona para buscar e
         data.foco_narrativo.toLowerCase().includes(searchedTerm) ||
         data.tags.some(tag => tag.toLowerCase().includes(searchedTerm)) // Verifica se alguma das tags inclui o termo buscado.
     );
+
+    sectionOQueERpg.style.display = 'none'; // Oculta a seção "O que é RPG?" quando uma busca é realizada.
 
     renderSystems(results); // Chama a função para exibir os cards com os resultados filtrados.
 }
