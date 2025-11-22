@@ -2,8 +2,7 @@ body {
     font-family: var(--font-primary);
     background-color: var(--color-primary);
     color: var(--color-text-primary);
-    height: 100vh;
-    width: 100vw;
+    min-height: 100vh;
 }
 
 .header {
@@ -103,18 +102,16 @@ main {
     justify-content: center;
     align-items: center;
     width: 100%;
+    padding-bottom: 22vh;
 }
 
 .o-que-e-rpg {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    gap: 0.5rem;
     width: 80vw;
-    border-radius: 20px;
     padding: 20px;
-    gap: 40px;
-    text-align: justify;
+    border-radius: 20px;
     background-color: var(--color-tertiary);
 }
 
@@ -131,8 +128,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 40px;
-    margin: 20px;
+    gap: 20px;
     text-align: justify;
 }
 
@@ -161,13 +157,11 @@ main {
     justify-content: space-around;
     align-items: center;
     background-color: var(--color-secondary);
-    color: var(--color-text-primary);
-    position: static;
+    color: var(--color-text-primary);    
     position: fixed;
     bottom: 0;
     height: 20vh;
     width: 100%;
-    flex-grow: 1;
 }
 
 .social-midia ul {
