@@ -9,7 +9,12 @@
     "genero": "Fantasia Medieval",
     "foco_narrativo": "Tradicional",
     "link": "https://dnd.wizards.com/",
-    "tags": ["d20", "fantasia", "heroico", "magia"]
+    "tags": [
+      "d20",
+      "fantasia",
+      "heroico",
+      "magia"
+    ]
   },
   {
     "nome": "Pathfinder 2nd Edition",
@@ -21,7 +26,12 @@
     "genero": "Fantasia",
     "foco_narrativo": "Tradicional/Tático",
     "link": "https://paizo.com/pathfinder",
-    "tags": ["d20", "tático", "alta fantasia", "complexo"]
+    "tags": [
+      "d20",
+      "tático",
+      "alta fantasia",
+      "complexo"
+    ]
   },
   {
     "nome": "Call of Cthulhu 7th Edition",
@@ -33,7 +43,12 @@
     "genero": "Terror/Investigação",
     "foco_narrativo": "Tradicional",
     "link": "https://www.chaosium.com/call-of-cthulhu-rpg/",
-    "tags": ["terror", "d100", "investigação", "horror cósmico"]
+    "tags": [
+      "terror",
+      "d100",
+      "investigação",
+      "horror cósmico"
+    ]
   },
   {
     "nome": "Vampire: The Masquerade 5th Edition",
@@ -45,7 +60,12 @@
     "genero": "Terror/Fantasia Urbana",
     "foco_narrativo": "Narrativo",
     "link": "https://www.worldofdarkness.com/",
-    "tags": ["vampiros", "horror pessoal", "d10", "política"]
+    "tags": [
+      "vampiros",
+      "horror pessoal",
+      "d10",
+      "política"
+    ]
   },
   {
     "nome": "Tormenta20",
@@ -57,7 +77,12 @@
     "genero": "Fantasia",
     "foco_narrativo": "Tradicional",
     "link": "https://jamboeditora.com.br/categoria/rpg/tormenta20/",
-    "tags": ["brasileiro", "fantasia", "d20", "heroico"]
+    "tags": [
+      "brasileiro",
+      "fantasia",
+      "d20",
+      "heroico"
+    ]
   },
   {
     "nome": "GURPS 4th Edition",
@@ -69,7 +94,12 @@
     "genero": "Genérico",
     "foco_narrativo": "Simulacionista",
     "link": "http://www.sjgames.com/gurps/",
-    "tags": ["genérico", "3d6", "simulação", "modular"]
+    "tags": [
+      "genérico",
+      "3d6",
+      "simulação",
+      "modular"
+    ]
   },
   {
     "nome": "Fate Core",
@@ -81,7 +111,12 @@
     "genero": "Genérico",
     "foco_narrativo": "Narrativo",
     "link": "https://www.evilhat.com/home/fate-core/",
-    "tags": ["narrativo", "genérico", "dados fudge", "pulp"]
+    "tags": [
+      "narrativo",
+      "genérico",
+      "dados fudge",
+      "pulp"
+    ]
   },
   {
     "nome": "Cyberpunk RED",
@@ -93,7 +128,12 @@
     "genero": "Cyberpunk",
     "foco_narrativo": "Tradicional",
     "link": "https://rtalsoriangames.com/cyberpunk/",
-    "tags": ["ficção científica", "cyberpunk", "d10", "distopia"]
+    "tags": [
+      "ficção científica",
+      "cyberpunk",
+      "d10",
+      "distopia"
+    ]
   },
   {
     "nome": "Ordem Paranormal RPG",
@@ -105,7 +145,12 @@
     "genero": "Terror/Investigação",
     "foco_narrativo": "Tático/Investigativo",
     "link": "https://jamboeditora.com.br/categoria/rpg/ordem-paranormal/",
-    "tags": ["brasileiro", "paranormal", "investigação", "stream"]
+    "tags": [
+      "brasileiro",
+      "paranormal",
+      "investigação",
+      "stream"
+    ]
   },
   {
     "nome": "Blades in the Dark",
@@ -117,7 +162,12 @@
     "genero": "Fantasia Sombria/Industrial",
     "foco_narrativo": "Narrativo/Ficção em primeiro lugar",
     "link": "https://bladesinthedark.com/",
-    "tags": ["heist", "d6", "narrativo", "submundo"]
+    "tags": [
+      "heist",
+      "d6",
+      "narrativo",
+      "submundo"
+    ]
   },
   {
     "nome": "Savage Worlds Adventure Edition (SWADE)",
@@ -129,7 +179,12 @@
     "genero": "Genérico",
     "foco_narrativo": "Ação/Pulp",
     "link": "https://peginc.com/savage-settings/savage-worlds/",
-    "tags": ["genérico", "ação", "rápido", "pulp"]
+    "tags": [
+      "genérico",
+      "ação",
+      "rápido",
+      "pulp"
+    ]
   },
   {
     "nome": "Alien: The Roleplaying Game",
@@ -141,7 +196,12 @@
     "genero": "Sci-Fi/Terror",
     "foco_narrativo": "Sobrevivência/Horror",
     "link": "https://freeleaguepublishing.com/en/games/alien/",
-    "tags": ["sci-fi", "terror", "alien", "survival"]
+    "tags": [
+      "sci-fi",
+      "terror",
+      "alien",
+      "survival"
+    ]
   },
   {
     "nome": "Shadowrun 6th Edition (Sixth World)",
@@ -153,7 +213,12 @@
     "genero": "Cyberpunk/Fantasia",
     "foco_narrativo": "Tático/Simulacionista",
     "link": "https://www.shadowrunsixthworld.com/",
-    "tags": ["cyberpunk", "magia", "futurista", "complexo"]
+    "tags": [
+      "cyberpunk",
+      "magia",
+      "futurista",
+      "complexo"
+    ]
   },
   {
     "nome": "Legend of the Five Rings 5th Edition",
@@ -165,7 +230,12 @@
     "genero": "Fantasia Oriental",
     "foco_narrativo": "Dramático/Narrativo",
     "link": "https://edge-studio.net/games/legend-of-the-five-rings/",
-    "tags": ["samurai", "drama", "dados customizados", "oriental"]
+    "tags": [
+      "samurai",
+      "drama",
+      "dados customizados",
+      "oriental"
+    ]
   },
   {
     "nome": "Numenera",
@@ -177,7 +247,12 @@
     "genero": "Science Fantasy",
     "foco_narrativo": "Exploração/Narrativo",
     "link": "https://numenera.com/",
-    "tags": ["sci-fi", "estranho", "exploração", "d20"]
+    "tags": [
+      "sci-fi",
+      "estranho",
+      "exploração",
+      "d20"
+    ]
   },
   {
     "nome": "Dungeon World",
@@ -189,7 +264,12 @@
     "genero": "Fantasia Medieval",
     "foco_narrativo": "Narrativo",
     "link": "https://dungeon-world.com/",
-    "tags": ["pbta", "fantasia", "narrativo", "2d6"]
+    "tags": [
+      "pbta",
+      "fantasia",
+      "narrativo",
+      "2d6"
+    ]
   },
   {
     "nome": "Mörk Borg",
@@ -201,7 +281,12 @@
     "genero": "Fantasia Sombria/Doom Metal",
     "foco_narrativo": "Old School/Sobrevivência",
     "link": "https://morkborg.com/",
-    "tags": ["osr", "dark fantasy", "regras leves", "artpunk"]
+    "tags": [
+      "osr",
+      "dark fantasy",
+      "regras leves",
+      "artpunk"
+    ]
   },
   {
     "nome": "3D&T Victory",
@@ -213,7 +298,12 @@
     "genero": "Genérico/Anime",
     "foco_narrativo": "Ação/Cinematográfico",
     "link": "https://jamboeditora.com.br/3det/",
-    "tags": ["brasileiro", "anime", "simples", "d6"]
+    "tags": [
+      "brasileiro",
+      "anime",
+      "simples",
+      "d6"
+    ]
   },
   {
     "nome": "Mutants & Masterminds 3rd Edition",
@@ -225,7 +315,12 @@
     "genero": "Super-Heróis",
     "foco_narrativo": "Ação/Criação de Poderes",
     "link": "https://greenronin.com/mutants-masterminds/",
-    "tags": ["super-heróis", "d20", "poderes", "moderno"]
+    "tags": [
+      "super-heróis",
+      "d20",
+      "poderes",
+      "moderno"
+    ]
   },
   {
     "nome": "Old School Essentials (OSE)",
@@ -237,7 +332,12 @@
     "genero": "Fantasia Medieval",
     "foco_narrativo": "Old School Revival (OSR)",
     "link": "https://necroticgnome.com/",
-    "tags": ["osr", "exploração", "letal", "clássico"]
+    "tags": [
+      "osr",
+      "exploração",
+      "letal",
+      "clássico"
+    ]
   },
   {
     "nome": "City of Mist",
@@ -249,7 +349,12 @@
     "genero": "Fantasia Urbana/Noir",
     "foco_narrativo": "Investigação/Narrativo",
     "link": "https://cityofmist.co/",
-    "tags": ["investigação", "super-heróis", "mitologia", "narrativo"]
+    "tags": [
+      "investigação",
+      "super-heróis",
+      "mitologia",
+      "narrativo"
+    ]
   },
   {
     "nome": "Lancer",
@@ -261,7 +366,12 @@
     "genero": "Sci-Fi/Mecha",
     "foco_narrativo": "Tático/Combate",
     "link": "https://massif-press.itch.io/",
-    "tags": ["mecha", "sci-fi", "tático", "combate"]
+    "tags": [
+      "mecha",
+      "sci-fi",
+      "tático",
+      "combate"
+    ]
   },
   {
     "nome": "Star Wars: Edge of the Empire",
@@ -273,7 +383,12 @@
     "genero": "Space Opera",
     "foco_narrativo": "Cinematográfico",
     "link": "https://www.fantasyflightgames.com/en/starwarsrpg/",
-    "tags": ["star wars", "sci-fi", "dados narrativos", "aventura"]
+    "tags": [
+      "star wars",
+      "sci-fi",
+      "dados narrativos",
+      "aventura"
+    ]
   },
   {
     "nome": "Alice Is Missing",
@@ -285,7 +400,12 @@
     "genero": "Drama/Mistério",
     "foco_narrativo": "Imersivo/Narrativo",
     "link": "https://www.huntersentertainment.com/alice-is-missing",
-    "tags": ["sem mestre", "drama", "inovador", "mensagem de texto"]
+    "tags": [
+      "sem mestre",
+      "drama",
+      "inovador",
+      "mensagem de texto"
+    ]
   },
   {
     "nome": "Delta Green",
@@ -297,7 +417,12 @@
     "genero": "Terror Moderno/Conspiração",
     "foco_narrativo": "Investigação/Terror",
     "link": "https://www.deltagreen.com/",
-    "tags": ["terror", "militar", "conspiração", "d100"]
+    "tags": [
+      "terror",
+      "militar",
+      "conspiração",
+      "d100"
+    ]
   },
   {
     "nome": "The One Ring 2nd Edition",
@@ -309,7 +434,12 @@
     "genero": "Fantasia (Terra Média)",
     "foco_narrativo": "Exploração/Narrativo",
     "link": "https://freeleaguepublishing.com/games/the-one-ring/",
-    "tags": ["senhor dos anéis", "fantasia", "viagem", "tolkien"]
+    "tags": [
+      "senhor dos anéis",
+      "fantasia",
+      "viagem",
+      "tolkien"
+    ]
   },
   {
     "nome": "Warhammer Fantasy Roleplay 4th Edition",
@@ -321,7 +451,12 @@
     "genero": "Grim Dark Fantasy",
     "foco_narrativo": "Tradicional/Simulacionista",
     "link": "https://cubicle7games.com/warhammer-fantasy",
-    "tags": ["grimdark", "d100", "caos", "letal"]
+    "tags": [
+      "grimdark",
+      "d100",
+      "caos",
+      "letal"
+    ]
   },
   {
     "nome": "Old Dragon 2ª Edição",
@@ -333,7 +468,12 @@
     "genero": "Fantasia Medieval",
     "foco_narrativo": "Old School/Dungeon Crawl",
     "link": "https://olddragon.com.br/",
-    "tags": ["brasileiro", "osr", "dungeon crawler", "retro"]
+    "tags": [
+      "brasileiro",
+      "osr",
+      "dungeon crawler",
+      "retro"
+    ]
   },
   {
     "nome": "Monster of the Week",
@@ -345,7 +485,12 @@
     "genero": "Fantasia Urbana/Terror",
     "foco_narrativo": "Narrativo",
     "link": "https://www.evilhat.com/home/monster-of-the-week/",
-    "tags": ["pbta", "caça-monstros", "narrativo", "séries de tv"]
+    "tags": [
+      "pbta",
+      "caça-monstros",
+      "narrativo",
+      "séries de tv"
+    ]
   },
   {
     "nome": "Traveller (Mongoose 2nd Ed)",
@@ -357,7 +502,12 @@
     "genero": "Space Opera/Hard Sci-Fi",
     "foco_narrativo": "Sandbox/Simulacionista",
     "link": "https://www.mongoosepublishing.com/collections/traveller-rpg",
-    "tags": ["sci-fi", "espaço", "sandbox", "clássico"]
+    "tags": [
+      "sci-fi",
+      "espaço",
+      "sandbox",
+      "clássico"
+    ]
   },
   {
     "nome": "Tales from the Loop",
@@ -369,7 +519,12 @@
     "genero": "Sci-Fi Nostálgico",
     "foco_narrativo": "Narrativo/Investigativo",
     "link": "https://freeleaguepublishing.com/games/tales-from-the-loop/",
-    "tags": ["anos 80", "mistério", "crianças", "stranger things"]
+    "tags": [
+      "anos 80",
+      "mistério",
+      "crianças",
+      "stranger things"
+    ]
   },
   {
     "nome": "Mage: The Ascension 20th Anniversary",
@@ -381,7 +536,12 @@
     "genero": "Fantasia Urbana/Filosófico",
     "foco_narrativo": "Narrativo/Conceitual",
     "link": "https://www.theonyxpath.com/category/worlds/classicworldofdarkness/magetheascension/",
-    "tags": ["magia", "filosofia", "horror pessoal", "d10"]
+    "tags": [
+      "magia",
+      "filosofia",
+      "horror pessoal",
+      "d10"
+    ]
   },
   {
     "nome": "Deadlands: The Weird West",
@@ -393,7 +553,12 @@
     "genero": "Western/Terror",
     "foco_narrativo": "Ação/Pulp",
     "link": "https://peginc.com/savage-settings/deadlands/",
-    "tags": ["faroeste", "steampunk", "terror", "savage worlds"]
+    "tags": [
+      "faroeste",
+      "steampunk",
+      "terror",
+      "savage worlds"
+    ]
   },
   {
     "nome": "Ironsworn",
@@ -405,7 +570,12 @@
     "genero": "Low Fantasy",
     "foco_narrativo": "Narrativo/Solo",
     "link": "https://www.ironswornrpg.com/",
-    "tags": ["solo", "gmless", "viking", "gratuito"]
+    "tags": [
+      "solo",
+      "gmless",
+      "viking",
+      "gratuito"
+    ]
   },
   {
     "nome": "Paranoia: Red Clearance Edition",
@@ -417,7 +587,12 @@
     "genero": "Sci-Fi/Sátira",
     "foco_narrativo": "Humor Negro/Competitivo",
     "link": "https://www.mongoosepublishing.com/collections/paranoia",
-    "tags": ["humor", "distopia", "pvp", "clássico"]
+    "tags": [
+      "humor",
+      "distopia",
+      "pvp",
+      "clássico"
+    ]
   },
   {
     "nome": "Tagmar 3.0",
@@ -429,7 +604,12 @@
     "genero": "Fantasia Medieval",
     "foco_narrativo": "Tradicional",
     "link": "https://tagmar.com.br/",
-    "tags": ["brasileiro", "clássico", "open source", "fantasia"]
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "open source",
+      "fantasia"
+    ]
   },
   {
     "nome": "Scum and Villainy",
@@ -441,7 +621,12 @@
     "genero": "Space Opera",
     "foco_narrativo": "Narrativo/Missão",
     "link": "https://evilhat.com/product/scum-and-villainy/",
-    "tags": ["sci-fi", "heist", "star wars like", "firefly"]
+    "tags": [
+      "sci-fi",
+      "heist",
+      "star wars like",
+      "firefly"
+    ]
   },
   {
     "nome": "7th Sea 2nd Edition",
@@ -453,7 +638,12 @@
     "genero": "Swashbuckling/Fantasia",
     "foco_narrativo": "Cinematográfico",
     "link": "https://www.chaosium.com/7th-sea/",
-    "tags": ["piratas", "capa e espada", "cinematográfico", "d10"]
+    "tags": [
+      "piratas",
+      "capa e espada",
+      "cinematográfico",
+      "d10"
+    ]
   },
   {
     "nome": "Forbidden Lands",
@@ -465,7 +655,12 @@
     "genero": "Fantasia Sombria",
     "foco_narrativo": "Sandbox/Sobrevivência",
     "link": "https://freeleaguepublishing.com/games/forbidden-lands/",
-    "tags": ["hexcrawl", "survival", "sandbox", "fantasia"]
+    "tags": [
+      "hexcrawl",
+      "survival",
+      "sandbox",
+      "fantasia"
+    ]
   },
   {
     "nome": "Werewolf: The Apocalypse 5th Edition",
@@ -477,7 +672,12 @@
     "genero": "Terror/Ação",
     "foco_narrativo": "Narrativo/Combate Brutal",
     "link": "https://renegadegamestudios.com/werewolf-the-apocalypse-5th-edition/",
-    "tags": ["lobisomem", "ecologia", "horror", "d10"]
+    "tags": [
+      "lobisomem",
+      "ecologia",
+      "horror",
+      "d10"
+    ]
   },
   {
     "nome": "Starfinder",
@@ -489,7 +689,12 @@
     "genero": "Science Fantasy",
     "foco_narrativo": "Tático/Aventura",
     "link": "https://paizo.com/starfinder",
-    "tags": ["sci-fi", "magia", "espaço", "tático"]
+    "tags": [
+      "sci-fi",
+      "magia",
+      "espaço",
+      "tático"
+    ]
   },
   {
     "nome": "Vaesen",
@@ -501,7 +706,12 @@
     "genero": "Terror Gótico/Investigação",
     "foco_narrativo": "Investigativo/Atmosférico",
     "link": "https://freeleaguepublishing.com/games/vaesen/",
-    "tags": ["folclore", "terror", "investigação", "século 19"]
+    "tags": [
+      "folclore",
+      "terror",
+      "investigação",
+      "século 19"
+    ]
   },
   {
     "nome": "Warhammer 40,000: Wrath & Glory",
@@ -513,7 +723,12 @@
     "genero": "Sci-Fi Grimdark",
     "foco_narrativo": "Ação",
     "link": "https://cubicle7games.com/warhammer-40k",
-    "tags": ["40k", "sci-fi", "ação", "space marines"]
+    "tags": [
+      "40k",
+      "sci-fi",
+      "ação",
+      "space marines"
+    ]
   },
   {
     "nome": "Symbaroum",
@@ -525,7 +740,12 @@
     "genero": "Dark Fantasy",
     "foco_narrativo": "Exploração/Mistério",
     "link": "https://freeleaguepublishing.com/games/symbaroum/",
-    "tags": ["dark fantasy", "floresta", "exploração", "arte"]
+    "tags": [
+      "dark fantasy",
+      "floresta",
+      "exploração",
+      "arte"
+    ]
   },
   {
     "nome": "Mausrit",
@@ -537,7 +757,12 @@
     "genero": "Fantasia",
     "foco_narrativo": "Old School/Inventividade",
     "link": "https://mausrit.com/",
-    "tags": ["ratos", "osr", "minimalista", "regras leves"]
+    "tags": [
+      "ratos",
+      "osr",
+      "minimalista",
+      "regras leves"
+    ]
   },
   {
     "nome": "Eclipse Phase 2nd Edition",
@@ -549,7 +774,12 @@
     "genero": "Hard Sci-Fi/Post-Cyberpunk",
     "foco_narrativo": "Simulacionista/Existencial",
     "link": "https://eclipsephase.com/",
-    "tags": ["transhumanismo", "sci-fi", "d100", "complexo"]
+    "tags": [
+      "transhumanismo",
+      "sci-fi",
+      "d100",
+      "complexo"
+    ]
   },
   {
     "nome": "RuneQuest: Roleplaying in Glorantha",
@@ -561,7 +791,12 @@
     "genero": "Fantasia Mítica",
     "foco_narrativo": "Simulacionista/Mítico",
     "link": "https://www.chaosium.com/runequest/",
-    "tags": ["d100", "mitologia", "clássico", "glorantha"]
+    "tags": [
+      "d100",
+      "mitologia",
+      "clássico",
+      "glorantha"
+    ]
   },
   {
     "nome": "Kids on Bikes",
@@ -573,7 +808,12 @@
     "genero": "Mistério Juvenil",
     "foco_narrativo": "Narrativo/Colaborativo",
     "link": "https://www.huntersentertainment.com/kidsonbikesrpg",
-    "tags": ["anos 80", "narrativo", "regras leves", "aventura"]
+    "tags": [
+      "anos 80",
+      "narrativo",
+      "regras leves",
+      "aventura"
+    ]
   },
   {
     "nome": "Unknown Armies 3rd Edition",
@@ -585,7 +825,12 @@
     "genero": "Terror Psicológico",
     "foco_narrativo": "Narrativo/Psicológico",
     "link": "https://www.atlas-games.com/unknownarmies",
-    "tags": ["bizarro", "terror", "moderno", "culto"]
+    "tags": [
+      "bizarro",
+      "terror",
+      "moderno",
+      "culto"
+    ]
   },
   {
     "nome": "Root: The RPG",
@@ -597,6 +842,861 @@
     "genero": "Fantasia de Animais",
     "foco_narrativo": "Política/Aventura",
     "link": "https://magpiegames.com/pages/root-rpg",
-    "tags": ["pbta", "animais", "política", "guerra"]
+    "tags": [
+      "pbta",
+      "animais",
+      "política",
+      "guerra"
+    ]
+  },
+  {
+    "nome": "Stars Without Number: Revised Edition",
+    "descricao": "Um sandbox de ficção científica estilo OSR, famoso por suas ferramentas de criação de setores espaciais.",
+    "data_criacao": "2010",
+    "data_ultimo_update": "2018",
+    "editora": "Sine Nomine Publishing",
+    "tipo_de_sistema": "OSR (B/X derivative)",
+    "genero": "Sci-Fi Sandbox",
+    "foco_narrativo": "Exploração/Sandbox",
+    "link": "https://sinenomine-publishing.myshopify.com/",
+    "tags": [
+      "sandbox",
+      "sci-fi",
+      "osr",
+      "espaço"
+    ]
+  },
+  {
+    "nome": "Dungeon Crawl Classics (DCC RPG)",
+    "descricao": "Uma volta à glória da 'Fantasia Apêndice N', com tabelas de acertos críticos brutais e magias imprevisíveis.",
+    "data_criacao": "2012",
+    "data_ultimo_update": "2019",
+    "editora": "Goodman Games",
+    "tipo_de_sistema": "d20 Modificado (Zocchi Dice)",
+    "genero": "Gonzo Fantasy",
+    "foco_narrativo": "Aleatoriedade/Diversão",
+    "link": "https://goodman-games.com/dungeon-crawl-classics-rpg/",
+    "tags": [
+      "osr",
+      "gonzo",
+      "letal",
+      "dados estranhos"
+    ]
+  },
+  {
+    "nome": "Masks: A New Generation",
+    "descricao": "Jovens super-heróis tentando descobrir quem são enquanto salvam a cidade e lidam com dramas adolescentes.",
+    "data_criacao": "2016",
+    "data_ultimo_update": "2020",
+    "editora": "Magpie Games",
+    "tipo_de_sistema": "Powered by the Apocalypse (PbtA)",
+    "genero": "Super-Heróis Teen",
+    "foco_narrativo": "Drama/Identidade",
+    "link": "https://magpiegames.com/pages/masks",
+    "tags": [
+      "pbta",
+      "super-heróis",
+      "drama",
+      "teen titans"
+    ]
+  },
+  {
+    "nome": "Avatar Legends: The Roleplaying Game",
+    "descricao": "RPG oficial do mundo de Avatar: A Lenda de Aang e Korra, focado em equilíbrio interno e dobra de elementos.",
+    "data_criacao": "2022",
+    "data_ultimo_update": "2023",
+    "editora": "Magpie Games",
+    "tipo_de_sistema": "Powered by the Apocalypse (PbtA)",
+    "genero": "Fantasia Oriental",
+    "foco_narrativo": "Narrativo/Ação",
+    "link": "https://magpiegames.com/pages/avatar-legends",
+    "tags": [
+      "avatar",
+      "artes marciais",
+      "pbta",
+      "família"
+    ]
+  },
+  {
+    "nome": "Mothership 1st Edition",
+    "descricao": "RPG de horror sci-fi focado em sobrevivência no espaço sideral. As regras são diagramadas como um manual de segurança.",
+    "data_criacao": "2018",
+    "data_ultimo_update": "2024",
+    "editora": "Tuesday Knight Games",
+    "tipo_de_sistema": "d100 Panic Engine",
+    "genero": "Sci-Fi Horror",
+    "foco_narrativo": "Sobrevivência/Estresse",
+    "link": "https://www.tuesdayknightgames.com/mothership",
+    "tags": [
+      "terror",
+      "sci-fi",
+      "d100",
+      "alien"
+    ]
+  },
+  {
+    "nome": "Fabula Ultima",
+    "descricao": "Um 'TTJRPG' (Tabletop Japanese RPG) projetado para emular o estilo e tropos de videogames como Final Fantasy.",
+    "data_criacao": "2022",
+    "data_ultimo_update": "2023",
+    "editora": "Need Games",
+    "tipo_de_sistema": "Ryutama-inspired (d6 a d12)",
+    "genero": "JRPG/Fantasia",
+    "foco_narrativo": "Heroísmo/Estilo Console",
+    "link": "https://www.needgames.it/fabula-ultima-en/",
+    "tags": [
+      "jrpg",
+      "anime",
+      "final fantasy",
+      "heroico"
+    ]
+  },
+  {
+    "nome": "The Black Hack 2nd Edition",
+    "descricao": "Um sistema OSR ultra-simples que usa a 'Mecânica de Uso' para recursos, focado em rapidez de jogo.",
+    "data_criacao": "2016",
+    "data_ultimo_update": "2019",
+    "editora": "Squarehex",
+    "tipo_de_sistema": "OSR (Roll Under)",
+    "genero": "Fantasia Medieval",
+    "foco_narrativo": "Dungeon Crawl/Simples",
+    "link": "https://the-black-hack.jehaisleprintemps.net/",
+    "tags": [
+      "osr",
+      "regras leves",
+      "dungeon",
+      "minimalista"
+    ]
+  },
+  {
+    "nome": "Pendragon 6th Edition",
+    "descricao": "O jogo definitivo sobre cavaleiros arturianos. Foca em gerações de famílias, paixões, traços de personalidade e torneios.",
+    "data_criacao": "1985",
+    "data_ultimo_update": "2024",
+    "editora": "Chaosium",
+    "tipo_de_sistema": "d20 Roll Under",
+    "genero": "Fantasia Histórica/Arturiana",
+    "foco_narrativo": "Dinastia/Personalidade",
+    "link": "https://www.chaosium.com/pendragon/",
+    "tags": [
+      "rei arthur",
+      "cavalaria",
+      "histórico",
+      "geracional"
+    ]
+  },
+  {
+    "nome": "Ars Magica 5th Edition",
+    "descricao": "Famoso por ter o melhor sistema de magia já criado, onde os jogadores controlam Magos poderosos na Europa Mítica.",
+    "data_criacao": "2004",
+    "data_ultimo_update": "2016",
+    "editora": "Atlas Games",
+    "tipo_de_sistema": "d10 Stress Die",
+    "genero": "Fantasia Histórica",
+    "foco_narrativo": "Magia/Gestão de Covenant",
+    "link": "https://www.atlas-games.com/arsmagica",
+    "tags": [
+      "magia complexa",
+      "histórico",
+      "latim",
+      "gestão"
+    ]
+  },
+  {
+    "nome": "Star Trek Adventures",
+    "descricao": "O RPG oficial de Star Trek, focado na colaboração da tripulação da ponte, exploração pacífica e dever.",
+    "data_criacao": "2017",
+    "data_ultimo_update": "2023",
+    "editora": "Modiphius Entertainment",
+    "tipo_de_sistema": "2d20 System",
+    "genero": "Space Opera",
+    "foco_narrativo": "Missão/Competência",
+    "link": "https://www.modiphius.net/pages/star-trek-adventures",
+    "tags": [
+      "star trek",
+      "sci-fi",
+      "2d20",
+      "exploração"
+    ]
+  },
+  {
+    "nome": "Dune: Adventures in the Imperium",
+    "descricao": "Intriga política, espionagem e duelos no universo de Frank Herbert. O combate pode ser físico ou de argumentos.",
+    "data_criacao": "2021",
+    "data_ultimo_update": "2023",
+    "editora": "Modiphius Entertainment",
+    "tipo_de_sistema": "2d20 System",
+    "genero": "Sci-Fi/Política",
+    "foco_narrativo": "Política/Facção",
+    "link": "https://www.modiphius.net/pages/dune-adventures-in-the-imperium",
+    "tags": [
+      "dune",
+      "política",
+      "sci-fi",
+      "2d20"
+    ]
+  },
+  {
+    "nome": "Fallout: The Roleplaying Game",
+    "descricao": "Adaptação oficial dos jogos da Bethesda. Sobrevivência pós-apocalíptica com sistema de crafting e gerenciamento de saque.",
+    "data_criacao": "2021",
+    "data_ultimo_update": "2023",
+    "editora": "Modiphius Entertainment",
+    "tipo_de_sistema": "2d20 System",
+    "genero": "Pós-Apocalíptico",
+    "foco_narrativo": "Sobrevivência/Ação",
+    "link": "https://www.modiphius.net/pages/fallout-the-roleplaying-game",
+    "tags": [
+      "fallout",
+      "pós-apocalipse",
+      "crafting",
+      "videogame"
+    ]
+  },
+  {
+    "nome": "Kult: Divinity Lost",
+    "descricao": "Reboot do clássico sueco. Horror gnóstico onde a realidade é uma mentira criada para manter a humanidade prisioneira.",
+    "data_criacao": "2018",
+    "data_ultimo_update": "2021",
+    "editora": "Helmgast",
+    "tipo_de_sistema": "PbtA (Modificado)",
+    "genero": "Terror Adulto",
+    "foco_narrativo": "Horror Pessoal/Filosófico",
+    "link": "https://kultdivinitylost.com/",
+    "tags": [
+      "terror",
+      "adulto",
+      "gnosticismo",
+      "gore"
+    ]
+  },
+  {
+    "nome": "Ten Candles",
+    "descricao": "RPG de terror trágico jogado à luz de dez velas reais. As velas são apagadas conforme o jogo avança; ao final, todos morrem.",
+    "data_criacao": "2015",
+    "data_ultimo_update": "2015",
+    "editora": "Cavalry Games",
+    "tipo_de_sistema": "Dice Pool (d6) + Velas",
+    "genero": "Terror Trágico",
+    "foco_narrativo": "Atmosférico/Fim do Mundo",
+    "link": "https://cavalrygames.com/ten-candles",
+    "tags": [
+      "one-shot",
+      "tragédia",
+      "imersivo",
+      "velas"
+    ]
+  },
+  {
+    "nome": "Fiasco",
+    "descricao": "Um jogo sem mestre sobre pessoas com ambições poderosas e controle de impulsos ruim. Emula filmes dos irmãos Coen.",
+    "data_criacao": "2009",
+    "data_ultimo_update": "2020",
+    "editora": "Bully Pulpit Games",
+    "tipo_de_sistema": "GMless (Cartas/Dados)",
+    "genero": "Crime/Comédia de Erros",
+    "foco_narrativo": "Improviso/Caos",
+    "link": "https://bullypulpitgames.com/games/fiasco/",
+    "tags": [
+      "sem mestre",
+      "narrativo",
+      "crime",
+      "humor"
+    ]
+  },
+  {
+    "nome": "Ryuutama",
+    "descricao": "Conhecido como 'RPG de Fantasia Natural', focado em viagens, estações do ano e a sensação de admiração pelo mundo.",
+    "data_criacao": "2007",
+    "data_ultimo_update": "2015",
+    "editora": "Kotodama Heavy Industries",
+    "tipo_de_sistema": "Japanese RPG System",
+    "genero": "Fantasia Pastoral",
+    "foco_narrativo": "Viagem/Slice of Life",
+    "link": "http://kotohi.com/ryuutama/",
+    "tags": [
+      "japonês",
+      "viagem",
+      "conforto",
+      "exploração"
+    ]
+  },
+  {
+    "nome": "Wanderhome",
+    "descricao": "Um jogo pastoral sobre animais viajantes em um mundo sem violência, focado em beleza, despedidas e estações.",
+    "data_criacao": "2021",
+    "data_ultimo_update": "2022",
+    "editora": "Possum Creek Games",
+    "tipo_de_sistema": "Belonging Outside Belonging",
+    "genero": "Fantasia Pastoral",
+    "foco_narrativo": "Sem Mestre/Sem Combate",
+    "link": "https://possumcreekgames.com/pages/wanderhome",
+    "tags": [
+      "sem combate",
+      "animais",
+      "emocional",
+      "gmless"
+    ]
+  },
+  {
+    "nome": "Mighty Blade 3ª Edição",
+    "descricao": "RPG brasileiro introdutório, com regras simples e foco em alta fantasia, ideal para iniciantes e jogo rápido.",
+    "data_criacao": "2003",
+    "data_ultimo_update": "2023",
+    "editora": "Coisinha Verde",
+    "tipo_de_sistema": "d6 System",
+    "genero": "Fantasia Medieval",
+    "foco_narrativo": "Acessibilidade/Aventura",
+    "link": "https://mightyblade.com.br/",
+    "tags": [
+      "brasileiro",
+      "iniciante",
+      "gratuito",
+      "fantasia"
+    ]
+  },
+  {
+    "nome": "A Bandeira do Elefante e da Arara",
+    "descricao": "RPG ambientado no Brasil Colônia fantástico, focado no folclore nacional, povos originários e exploração.",
+    "data_criacao": "2017",
+    "data_ultimo_update": "2020",
+    "editora": "Devir",
+    "tipo_de_sistema": "Sistema d6 Simples",
+    "genero": "Fantasia Histórica Brasileira",
+    "foco_narrativo": "Educativo/Aventura",
+    "link": "https://www.eamb.org/brasil/",
+    "tags": [
+      "brasileiro",
+      "história",
+      "folclore",
+      "educativo"
+    ]
+  },
+  {
+    "nome": "Cortex Prime",
+    "descricao": "Um kit de ferramentas modular para construir seu próprio RPG, usado em jogos como Smallville e Marvel Heroic.",
+    "data_criacao": "2020",
+    "data_ultimo_update": "2022",
+    "editora": "Dire Wolf Digital",
+    "tipo_de_sistema": "Dice Pool (Step Dice)",
+    "genero": "Genérico",
+    "foco_narrativo": "Modular/Narrativo",
+    "link": "https://www.cortexrpg.com/",
+    "tags": [
+      "genérico",
+      "modular",
+      "dados variados",
+      "toolkit"
+    ]
+  },
+  {
+    "nome": "Hero System 6th Edition",
+    "descricao": "O avô dos sistemas de pontuação detalhada. Permite construir qualquer poder ou equipamento com matemática precisa.",
+    "data_criacao": "2009",
+    "data_ultimo_update": "2019",
+    "editora": "Hero Games",
+    "tipo_de_sistema": "3d6 Roll Under",
+    "genero": "Genérico/Super-Heróis",
+    "foco_narrativo": "Simulacionista/Crunchy",
+    "link": "https://www.herogames.com/",
+    "tags": [
+      "complexo",
+      "matemático",
+      "genérico",
+      "campeões"
+    ]
+  },
+  {
+    "nome": "Rifts Ultimate Edition",
+    "descricao": "Um cenário gonzo pós-apocalíptico onde todas as dimensões colidiram. Magos, robôs gigantes e dragões lutam entre si.",
+    "data_criacao": "1990",
+    "data_ultimo_update": "2005",
+    "editora": "Palladium Books",
+    "tipo_de_sistema": "Palladium Megaverse",
+    "genero": "Science Fantasy/Multi-gênero",
+    "foco_narrativo": "Combate/Exagero",
+    "link": "https://palladium-store.com/1001/category/Rifts-RPG.html",
+    "tags": [
+      "gonzo",
+      "complexo",
+      "mecha",
+      "anos 90"
+    ]
+  },
+  {
+    "nome": "13th Age",
+    "descricao": "Criado pelos designers principais de D&D 3e e 4e, combina combate tático d20 com narrativa focada nos 'Ícones' do mundo.",
+    "data_criacao": "2013",
+    "data_ultimo_update": "2023",
+    "editora": "Pelgrane Press",
+    "tipo_de_sistema": "d20 System",
+    "genero": "Alta Fantasia",
+    "foco_narrativo": "Heroico/Narrativo",
+    "link": "https://pelgranepress.com/13th-age/",
+    "tags": [
+      "d20",
+      "heroico",
+      "narrativo",
+      "tático"
+    ]
+  },
+  {
+    "nome": "Mutant: Year Zero",
+    "descricao": "Você joga com mutantes deformados procurando o Éden em um mundo destruído. Introduziu a aclamada Year Zero Engine.",
+    "data_criacao": "2014",
+    "data_ultimo_update": "2020",
+    "editora": "Free League Publishing",
+    "tipo_de_sistema": "Year Zero Engine (d6)",
+    "genero": "Pós-Apocalíptico",
+    "foco_narrativo": "Exploração/Base Building",
+    "link": "https://freeleaguepublishing.com/games/mutant-year-zero/",
+    "tags": [
+      "mutantes",
+      "sandbox",
+      "survival",
+      "arca"
+    ]
+  },
+  {
+    "nome": "Spire: The City Must Fall",
+    "descricao": "Você é um elfo negro revolucionário tentando derrubar o governo dos altos elfos em uma cidade-torre quilométrica.",
+    "data_criacao": "2018",
+    "data_ultimo_update": "2021",
+    "editora": "Rowan, Rook and Decard",
+    "tipo_de_sistema": "Resistance System (d10)",
+    "genero": "Fantasy Punk",
+    "foco_narrativo": "Revolução/Consequências",
+    "link": "https://rowanrookanddecard.com/spire-rpg/",
+    "tags": [
+      "punk",
+      "revolução",
+      "d10",
+      "estranho"
+    ]
+  },
+  {
+    "nome": "Heart: The City Beneath",
+    "descricao": "Dungeon Crawler de horror corporal e surrealismo, focado na descida à loucura nas entranhas abaixo da cidade de Spire.",
+    "data_criacao": "2020",
+    "data_ultimo_update": "2022",
+    "editora": "Rowan, Rook and Decard",
+    "tipo_de_sistema": "Resistance System (d10)",
+    "genero": "Horror/Dungeon Crawl",
+    "foco_narrativo": "Exploração/Body Horror",
+    "link": "https://rowanrookanddecard.com/heart-rpg/",
+    "tags": [
+      "dungeon",
+      "horror",
+      "surreal",
+      "narrativo"
+    ]
+  },
+  {
+    "nome": "Troika!",
+    "descricao": "RPG de fantasia científica psicodélica, muito inspirado em livros-jogos britânicos. Regras simples e cenários bizarros.",
+    "data_criacao": "2019",
+    "data_ultimo_update": "2022",
+    "editora": "Melsonian Arts Council",
+    "tipo_de_sistema": "2d6 Roll Under",
+    "genero": "Science Fantasy",
+    "foco_narrativo": "Surreal/OSR",
+    "link": "https://www.troikarpg.com/",
+    "tags": [
+      "psicodélico",
+      "regras leves",
+      "estranho",
+      "britânico"
+    ]
+  },
+  {
+    "nome": "Electric Bastionland",
+    "descricao": "A única cidade que importa. Um RPG sobre dívidas, falhas e exploração de um mundo industrial surreal e infinito.",
+    "data_criacao": "2020",
+    "data_ultimo_update": "2021",
+    "editora": "Bastionland Press",
+    "tipo_de_sistema": "Into the Odd (d20)",
+    "genero": "Industrial Fantasy",
+    "foco_narrativo": "Exploração/Minimalista",
+    "link": "https://www.bastionland.com/",
+    "tags": [
+      "osr",
+      "minimalista",
+      "industrial",
+      "estranho"
+    ]
+  },
+  {
+    "nome": "Knave 2nd Edition",
+    "descricao": "Um toolkit OSR onde as classes não existem; você é definido apenas pelo equipamento que carrega em seus slots.",
+    "data_criacao": "2018",
+    "data_ultimo_update": "2024",
+    "editora": "Questing Beast Games",
+    "tipo_de_sistema": "d20 OSR",
+    "genero": "Fantasia Medieval",
+    "foco_narrativo": "Gestão de Inventário/OSR",
+    "link": "https://questingbeastgames.com/",
+    "tags": [
+      "osr",
+      "inventário",
+      "sem classes",
+      "rápido"
+    ]
+  },
+  {
+    "nome": "Index Card RPG (ICRPG)",
+    "descricao": "Sistema DIY conhecido pela velocidade, uso de 'Esforço' (dados de dano para tudo) e design visual em cartões.",
+    "data_criacao": "2017",
+    "data_ultimo_update": "2021",
+    "editora": "Runehammer Games",
+    "tipo_de_sistema": "d20 Simplificado",
+    "genero": "Genérico/Dungeon",
+    "foco_narrativo": "Velocidade/Loot",
+    "link": "https://www.runehammer.online/",
+    "tags": [
+      "diy",
+      "d20",
+      "rápido",
+      "criativo"
+    ]
+  },
+  {
+    "nome": "Thirsty Sword Lesbians",
+    "descricao": "Melodrama, lutas de espada e romance queer. Focado em conexões emocionais e resolver conflitos com estilo.",
+    "data_criacao": "2021",
+    "data_ultimo_update": "2022",
+    "editora": "Evil Hat Productions",
+    "tipo_de_sistema": "Powered by the Apocalypse (PbtA)",
+    "genero": "Fantasia/Romance",
+    "foco_narrativo": "Relacionamentos/Drama",
+    "link": "https://evilhat.com/product/thirsty-sword-lesbians/",
+    "tags": [
+      "lgbtq+",
+      "pbta",
+      "romance",
+      "capa e espada"
+    ]
+  },
+  {
+    "nome": "Bluebeard's Bride",
+    "descricao": "Um RPG de horror feminino onde os jogadores compartilham o controle da noiva do Barba Azul explorando sua casa.",
+    "data_criacao": "2017",
+    "data_ultimo_update": "2018",
+    "editora": "Magpie Games",
+    "tipo_de_sistema": "PbtA Horror",
+    "genero": "Terror Gótico",
+    "foco_narrativo": "Horror Feminino/Psicológico",
+    "link": "https://magpiegames.com/pages/bluebeards-bride",
+    "tags": [
+      "terror",
+      "adulto",
+      "conto de fadas",
+      "pbta"
+    ]
+  },
+  {
+    "nome": "Dread",
+    "descricao": "Famoso por usar uma torre de Jenga em vez de dados. Se a torre cair, seu personagem morre ou é removido da cena.",
+    "data_criacao": "2005",
+    "data_ultimo_update": "2018",
+    "editora": "The Impossible Dream",
+    "tipo_de_sistema": "Jenga Tower",
+    "genero": "Terror/Suspense",
+    "foco_narrativo": "Tensão Crescente",
+    "link": "https://dreadthegame.wordpress.com/",
+    "tags": [
+      "jenga",
+      "tensão",
+      "terror",
+      "sem dados"
+    ]
+  },
+  {
+    "nome": "Apocalypse World 2nd Edition",
+    "descricao": "O jogo que criou o movimento PbtA. Pós-apocalipse sujo e sexy, focado na escassez e relacionamentos perigosos.",
+    "data_criacao": "2010",
+    "data_ultimo_update": "2016",
+    "editora": "Lumpley Games",
+    "tipo_de_sistema": "Powered by the Apocalypse (Original)",
+    "genero": "Pós-Apocalíptico",
+    "foco_narrativo": "Narrativo/Adulto",
+    "link": "http://apocalypse-world.com/",
+    "tags": [
+      "pbta",
+      "pioneiro",
+      "adulto",
+      "mad max"
+    ]
+  },
+  {
+    "nome": "Basic Fantasy RPG",
+    "descricao": "Um sistema open-source que emula as regras clássicas dos anos 80 com clareza moderna. Totalmente gratuito.",
+    "data_criacao": "2006",
+    "data_ultimo_update": "2023",
+    "editora": "Basic Fantasy Project",
+    "tipo_de_sistema": "OSR (d20)",
+    "genero": "Fantasia Medieval",
+    "foco_narrativo": "Old School/Simples",
+    "link": "https://www.basicfantasy.org/",
+    "tags": [
+      "gratuito",
+      "osr",
+      "clássico",
+      "comunidade"
+    ]
+  },
+  {
+    "nome": "Exalted 3rd Edition",
+    "descricao": "Alta fantasia épica onde os jogadores são semideuses reencarnados (Solar Exalted) que podem enfrentar exércitos sozinhos.",
+    "data_criacao": "2016",
+    "data_ultimo_update": "2021",
+    "editora": "Onyx Path Publishing",
+    "tipo_de_sistema": "Storyteller (d10 Dice Pool)",
+    "genero": "High Fantasy/Anime",
+    "foco_narrativo": "Épico/Poder",
+    "link": "https://theonyxpath.com/category/worlds/exalted/",
+    "tags": [
+      "anime",
+      "poderoso",
+      "d10",
+      "complexo"
+    ]
+  },
+  {
+    "nome": "Changeling: The Lost 2nd Edition",
+    "descricao": "RPG sobre humanos sequestrados por Fadas reais e cruéis, que escapam e tentam reconstruir suas vidas com poderes estranhos.",
+    "data_criacao": "2018",
+    "data_ultimo_update": "2021",
+    "editora": "Onyx Path Publishing",
+    "tipo_de_sistema": "Chronicles of Darkness (d10)",
+    "genero": "Fantasia Urbana/Terror",
+    "foco_narrativo": "Trauma/Beleza Sombria",
+    "link": "https://theonyxpath.com/changeling-the-lost-2nd-edition-products/",
+    "tags": [
+      "fadas",
+      "terror",
+      "drama",
+      "d10"
+    ]
+  },
+  {
+    "nome": "Dragonbane (Drakar och Demoner)",
+    "descricao": "A edição moderna do RPG mais clássico da Suécia. Fantasia baseada em humor, patos antropomórficos e combate rápido.",
+    "data_criacao": "1982",
+    "data_ultimo_update": "2023",
+    "editora": "Free League Publishing",
+    "tipo_de_sistema": "d20 Roll Under (BRP derivative)",
+    "genero": "Fantasia Clássica",
+    "foco_narrativo": "Aventura/Rápido",
+    "link": "https://freeleaguepublishing.com/games/dragonbane/",
+    "tags": [
+      "sueco",
+      "patos",
+      "d20",
+      "clássico"
+    ]
+  },
+  {
+    "nome": "Terra Devastada",
+    "descricao": "RPG brasileiro de sobrevivência a um apocalipse zumbi. Foca nos dramas humanos e recursos escassos.",
+    "data_criacao": "2011",
+    "data_ultimo_update": "2015",
+    "editora": "Retropunk Publicações",
+    "tipo_de_sistema": "Dice Pool (d6)",
+    "genero": "Terror/Zumbis",
+    "foco_narrativo": "Sobrevivência/Drama",
+    "link": "https://retropunk.com.br/editora/terra-devastada/",
+    "tags": [
+      "brasileiro",
+      "zumbis",
+      "indie",
+      "terror"
+    ]
+  },
+  {
+    "nome": "Marvel Multiverse Role-Playing Game",
+    "descricao": "O mais recente RPG oficial da Marvel, utilizando o 'd616 System' e focado em combates estratégicos de super-heróis.",
+    "data_criacao": "2023",
+    "data_ultimo_update": "2024",
+    "editora": "Marvel",
+    "tipo_de_sistema": "d616 System",
+    "genero": "Super-Heróis",
+    "foco_narrativo": "Ação/Estratégia",
+    "link": "https://www.marvel.com/rpg",
+    "tags": [
+      "marvel",
+      "super-heróis",
+      "d616",
+      "combate"
+    ]
+  },
+  {
+    "nome": "The Witcher TRPG",
+    "descricao": "Adaptação brutal do mundo dos videogames e livros. Combate é letal e o sistema de crafting é detalhado.",
+    "data_criacao": "2018",
+    "data_ultimo_update": "2022",
+    "editora": "R. Talsorian Games",
+    "tipo_de_sistema": "Interlock System (d10)",
+    "genero": "Dark Fantasy",
+    "foco_narrativo": "Simulacionista/Letal",
+    "link": "https://rtalsoriangames.com/witcher-trpg/",
+    "tags": [
+      "witcher",
+      "letal",
+      "d10",
+      "monstros"
+    ]
+  },
+  {
+    "nome": "Coriolis: The Third Horizon",
+    "descricao": "Descrito como 'As Mil e Uma Noites no Espaço'. Mistura sci-fi com misticismo do Oriente Médio e intriga faccionária.",
+    "data_criacao": "2017",
+    "data_ultimo_update": "2022",
+    "editora": "Free League Publishing",
+    "tipo_de_sistema": "Year Zero Engine",
+    "genero": "Sci-Fi Místico",
+    "foco_narrativo": "Exploração/Cultura",
+    "link": "https://freeleaguepublishing.com/games/coriolis/",
+    "tags": [
+      "sci-fi",
+      "misticismo",
+      "yze",
+      "política"
+    ]
+  },
+  {
+    "nome": "Honey Heist",
+    "descricao": "Micro-RPG de uma página onde você é um urso criminoso tentando roubar mel. Você tem dois status: Urso e Criminoso.",
+    "data_criacao": "2017",
+    "data_ultimo_update": "2017",
+    "editora": "Grant Howitt",
+    "tipo_de_sistema": "d6 Simples",
+    "genero": "Comédia",
+    "foco_narrativo": "Humor/One-Shot",
+    "link": "https://gshowitt.itch.io/honey-heist",
+    "tags": [
+      "micro-rpg",
+      "humor",
+      "ursos",
+      "one-shot"
+    ]
+  },
+  {
+    "nome": "Lasers & Feelings",
+    "descricao": "Micro-RPG que emula Star Trek. Você tem um único número; role abaixo para Lasers (ação), acima para Sentimentos (diplomacia).",
+    "data_criacao": "2013",
+    "data_ultimo_update": "2013",
+    "editora": "One Seven Design",
+    "tipo_de_sistema": "d6 Único",
+    "genero": "Sci-Fi Paródia",
+    "foco_narrativo": "Rápido/Improviso",
+    "link": "http://www.onesevendesign.com/laserfeelings/",
+    "tags": [
+      "micro-rpg",
+      "sci-fi",
+      "gratuito",
+      "regras leves"
+    ]
+  },
+  {
+    "nome": "Lady Blackbird",
+    "descricao": "Um módulo-jogo steampunk 'pronto para jogar'. Considerado uma obra-prima do design indie e narrativo.",
+    "data_criacao": "2009",
+    "data_ultimo_update": "2009",
+    "editora": "One Seven Design",
+    "tipo_de_sistema": "Dice Pool (Tags)",
+    "genero": "Steampunk/Space Opera",
+    "foco_narrativo": "Narrativo/Personagem",
+    "link": "http://www.onesevendesign.com/ladyblackbird/",
+    "tags": [
+      "steampunk",
+      "narrativo",
+      "pre-gen",
+      "clássico indie"
+    ]
+  },
+  {
+    "nome": "Polaris: Chivalric Tragedy at Utmost North",
+    "descricao": "RPG sobre cavaleiros lutando contra demônios no polo norte. Usa frases rituais em vez de dados para resolver conflitos.",
+    "data_criacao": "2005",
+    "data_ultimo_update": "2009",
+    "editora": "Tao Games",
+    "tipo_de_sistema": "Ritual Phrases (GMless)",
+    "genero": "Fantasia Trágica",
+    "foco_narrativo": "Colaborativo/Tragédia",
+    "link": "http://www.tao-games.com/polaris/",
+    "tags": [
+      "sem dados",
+      "tragédia",
+      "narrativo",
+      "cult"
+    ]
+  },
+  {
+    "nome": "Kingdom 2nd Edition",
+    "descricao": "Um jogo sem mestre sobre comunidades enfrentando crises. Os jogadores controlam 'Papéis' (Poder, Perspectiva, Ação) na sociedade.",
+    "data_criacao": "2013",
+    "data_ultimo_update": "2021",
+    "editora": "Lame Mage Productions",
+    "tipo_de_sistema": "GMless/Diceless",
+    "genero": "Genérico/Governança",
+    "foco_narrativo": "Política/Decisões",
+    "link": "https://www.lamemage.com/kingdom/",
+    "tags": [
+      "sem mestre",
+      "política",
+      "worldbuilding",
+      "sem dados"
+    ]
+  },
+  {
+    "nome": "Hunter: The Vigil 2nd Edition",
+    "descricao": "Pessoas comuns pegam em armas para defender suas comunidades de monstros sobrenaturais nas Crônicas das Trevas.",
+    "data_criacao": "2008",
+    "data_ultimo_update": "2022",
+    "editora": "Onyx Path Publishing",
+    "tipo_de_sistema": "Chronicles of Darkness (d10)",
+    "genero": "Terror/Ação",
+    "foco_narrativo": "Tático/Investigativo",
+    "link": "https://theonyxpath.com/hunter-the-vigil-2nd-edition-products/",
+    "tags": [
+      "caçadores",
+      "terror",
+      "moderno",
+      "d10"
+    ]
+  },
+  {
+    "nome": "Scion 2nd Edition",
+    "descricao": "Os jogadores são filhos de deuses antigos (Zeus, Odin, Baron Samedi) vivendo no mundo moderno e lutando contra Titãs.",
+    "data_criacao": "2019",
+    "data_ultimo_update": "2023",
+    "editora": "Onyx Path Publishing",
+    "tipo_de_sistema": "Storypath System",
+    "genero": "Fantasia Urbana Mítica",
+    "foco_narrativo": "Épico/Ação",
+    "link": "https://theonyxpath.com/category/worlds/scion/",
+    "tags": [
+      "mitologia",
+      "moderno",
+      "semideuses",
+      "épico"
+    ]
+  },
+  {
+    "nome": "Castles & Crusades",
+    "descricao": "A 'Pedra de Roseta' dos RPGs. Une a estrutura da 3ª edição de D&D com a simplicidade das edições antigas.",
+    "data_criacao": "2004",
+    "data_ultimo_update": "2022",
+    "editora": "Troll Lord Games",
+    "tipo_de_sistema": "Siege Engine (d20)",
+    "genero": "Fantasia Medieval",
+    "foco_narrativo": "Tradicional/Old School",
+    "link": "https://trolllord.com/castles-crusades/",
+    "tags": [
+      "osr",
+      "d20",
+      "clássico",
+      "compatível"
+    ]
   }
 ]
