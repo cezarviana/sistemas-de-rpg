@@ -8,16 +8,30 @@ body {
 
 .header {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     gap: 20px;
     margin: 20px 0;
 }
 
-.logo {
-    width: 150px;
+.logo a{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 20rem;
     height: auto;
+}
+
+.logo img {
+    width: 80px;
+    height: auto;
+}
+
+.logo h1 {
+    font-size: 24px;
+    margin-left: 10px;
+    color: var(--color-text-primary);
 }
 
 .logo:hover {
@@ -71,13 +85,31 @@ button img:hover {
     }
 }
 
+main {
+    display: flex;
+}
+
+.o-que-e-rpg {
+    justify-content: center;
+    align-items: center;
+    margin: 10px 20px;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: justify;
+}
+
+.o-que-e-rpg p {
+    text-indent: 20px;
+    margin: 20px;
+}
+
 .footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
     background-color: var(--color-secondary);
     color: var(--color-text-primary);
-    position: fixed;
+    position: static;
     bottom: 0;
     height: 20vh;
     width: 100%;
