@@ -5,7 +5,15 @@
         margin-bottom: 0.625rem;
         width: 100vw;
     }
-        
+
+    .o-que-e-rpg {
+        width: 80vw;
+    }
+
+    .response-container article {
+       width: 80vw;
+    }
+
     .footer {
         width: 100vw;
     }
@@ -13,20 +21,21 @@
 }
 
 @media screen and (max-width: 500px) {
-    
+
     .header {
         width: 100vw;
         padding: 20px;
     }
-    
+
     main {
         width: 100vw;
     }
 
     .response-container {
         text-align: left;
+
     }
-    
+
     .footer {
         justify-content: flex-start;
         width: 100vw;
@@ -36,7 +45,7 @@
         margin-left: 20%;
         width: 100%;
     }
-    
+
     .footer .logo {
         display: none;
     }
