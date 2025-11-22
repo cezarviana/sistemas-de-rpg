@@ -67,13 +67,13 @@ body {
     margin-left: 10px;
     border: 1px solid var(--color-secondary);
     border-radius: 15px;
-    background-color: var(--color-quaternary);
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7);;
+    background-image: url(../images/button/woodtable.png);
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7);
     cursor: pointer;
 }
 
 button img {
-    width: 60px;
+    width: 80px;
     height: auto;
 }
 
@@ -103,12 +103,18 @@ main {
 }
 
 .o-que-e-rpg {
-    justify-content: center;
-    align-items: center;
-    margin: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    width: 80vw;
+    margin-left: 20px;
     padding: 20px;
-    border-radius: 15px;
-    text-align: justify;
+    border-radius: 20px;
+    background-color: var(--color-tertiary);
+}
+
+.o-que-e-rpg .regra-de-ouro {
+    color: var(--color-text-tertiary);
 }
 
 .o-que-e-rpg p {
@@ -183,7 +189,7 @@ main {
     flex-direction: row;
     align-items: center;
     gap: 10px;
-    color: var(--color-text-tertiary);
+    color: var(--color-text-secondary);
 }
 
 .social-midia ul li a:hover {

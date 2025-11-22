@@ -3,14 +3,14 @@
 :root {
     --font-primary: 'Ubuntu', sans-serif;
 
-    --color-primary: #E6D3B5;
-    --color-secondary: #8A796A;
-    --color-tertiary: #bd9a7c;
-    --color-quaternary: #5999ff;
+    --color-primary: #bd9a7c;
+    --color-secondary: #8f6e51;
+    --color-tertiary:  #E6D3B5;
+   
 
     --color-text-primary: #232323;
-    --color-text-secondary: #8D8D99;
-    --color-text-tertiary: #F8F1C2;
+    --color-text-secondary: #F8F1C2;
+    --color-text-tertiary: #B8860B;
 
     --color-success: #04D361;
     --color-warning: #FBA94C;
@@ -28,4 +28,6 @@
 #EEE6CA
 #896C6C
 #B8860B
+
+#5999ff;
 */
