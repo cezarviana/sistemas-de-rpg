@@ -1,0 +1,32 @@
+@media screen and (max-width: 1000px) {
+    .header {
+        flex-direction: column;
+        gap: 0px;
+        margin: 0.625rem;
+    }
+
+    .search button {
+        width: 10%;
+    }
+
+}
+
+@media screen and (max-width: 500px) {
+    .response-container {
+        text-align: left;
+    }
+    
+    .footer {
+        justify-content: flex-start;
+    }
+
+    .social-midia ul {
+        margin-left: 20%;
+        width: 100%;
+    }
+    
+    .footer .logo {
+        display: none;
+    }
+
+}
