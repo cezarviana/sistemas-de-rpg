@@ -27,6 +27,10 @@
         padding: 20px;
     }
 
+    .search button {
+    width: 100px;
+}
+
     main {
         width: 100vw;
     }
